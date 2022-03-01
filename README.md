@@ -1,2 +1,0 @@
-# Pokedex
-Desafio pokedex - React 
